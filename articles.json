@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Suhail Al Zarooni: A Life Dedicated to Philanthropy",
+    "category": "foundation",
+    "content": "His Excellency Suhail Mohammad Al Zarooni has founded several charitable organizations aimed at improving the lives of individuals globally...",
+    "imageUrl": "/album1.jpg",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "user": {
+      "firstName": "Suhail",
+      "lastName": "Al Zarooni"
+    }
+  },
+  {
+    "id": "2",
+    "title": "The Grand Exhibit: Rare Collections from the Museum",
+    "category": "museum",
+    "content": "The Al Zarooni Museum houses some of the world's most unique artifacts and rare collections, reflecting a deep passion for history and culture...",
+    "imageUrl": "/album2.jpg",
+    "createdAt": "2024-01-02T00:00:00Z",
+    "user": {
+      "firstName": "Suhail",
+      "lastName": "Al Zarooni"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Upcoming Cultural Meetup in Dubai",
+    "category": "media",
+    "content": "Join us for an evening of cultural exchange and high-profile networking at the next Al Zarooni social event...",
+    "imageUrl": "/album3.jpg",
+    "createdAt": "2024-01-03T00:00:00Z",
+    "user": {
+      "firstName": "Suhail",
+      "lastName": "Al Zarooni"
+    }
+  },
+  {
+     "id": "4",
+     "title": "Supporting Education Worldwide",
+     "category": "foundation",
+     "content": "The Zarooni Foundation continues its mission to provide educational resources and scholarships to underprivileged communities...",
+     "imageUrl": "/album1.jpg",
+     "createdAt": "2024-01-04T00:00:00Z",
+     "user": {
+       "firstName": "Suhail",
+       "lastName": "Al Zarooni"
+     }
+  },
+  {
+     "id": "5",
+     "title": "Exclusive Collection Spotlight",
+     "category": "collection",
+     "content": "Exploring the rare car collection of His Excellency, featuring world-renowned engineering marvels...",
+     "imageUrl": "/album2.jpg",
+     "createdAt": "2024-01-05T00:00:00Z",
+     "user": {
+       "firstName": "Suhail",
+       "lastName": "Al Zarooni"
+     }
+  }
+]

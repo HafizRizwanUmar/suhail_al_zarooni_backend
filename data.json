@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "65b8f1a1c9e8a1a2b3c4d5e1",
+    "slug": "suhail-al-zarooni-life-dedicated-to-philanthropy",
+    "title": "Suhail Al Zarooni: A Life Dedicated to Philanthropy",
+    "category": "foundation",
+    "content": "His Excellency Suhail Mohammad Al Zarooni has founded several charitable organizations aimed at improving the lives of individuals globally. His vision for a better world is rooted in the belief that education and healthcare are fundamental rights for all.",
+    "imageUrl": "/album1.jpg",
+    "isApproved": true,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "user": {
+      "_id": "65b8f000c9e8a1a2b3c4d000",
+      "firstName": "Suhail",
+      "lastName": "Al Zarooni",
+      "role": "super_admin"
+    }
+  },
+  {
+    "_id": "65b8f1a1c9e8a1a2b3c4d5e2",
+    "slug": "grand-exhibit-rare-collections-museum",
+    "title": "The Grand Exhibit: Rare Collections from the Museum",
+    "category": "museum",
+    "content": "The Al Zarooni Museum houses some of the world's most unique artifacts and rare collections, reflecting a deep passion for history and culture. From ancient manuscripts to modern art, the collection is a testament to cultural preservation.",
+    "imageUrl": "/album2.jpg",
+    "isApproved": true,
+    "createdAt": "2024-01-02T00:00:00Z",
+    "user": {
+      "_id": "65b8f000c9e8a1a2b3c4d000",
+      "firstName": "Suhail",
+      "lastName": "Al Zarooni",
+      "role": "super_admin"
+    }
+  },
+  {
+    "_id": "65b8f1a1c9e8a1a2b3c4d5e3",
+    "slug": "upcoming-cultural-meetup-dubai",
+    "title": "Upcoming Cultural Meetup in Dubai",
+    "category": "media",
+    "content": "Join us for an evening of cultural exchange and high-profile networking at the next Al Zarooni social event. Distinguished guests from various sectors will gather to discuss the future of regional development.",
+    "imageUrl": "/album3.jpg",
+    "isApproved": true,
+    "createdAt": "2024-01-03T00:00:00Z",
+    "user": {
+      "_id": "65b8f000c9e8a1a2b3c4d000",
+      "firstName": "Suhail",
+      "lastName": "Al Zarooni",
+      "role": "super_admin"
+    }
+  },
+  {
+    "_id": "65b8f1a1c9e8a1a2b3c4d5e4",
+    "slug": "supporting-education-worldwide",
+    "title": "Supporting Education Worldwide",
+    "category": "foundation",
+    "content": "The Zarooni Foundation continues its mission to provide educational resources and scholarships to underprivileged communities. Our recent projects in Southeast Asia have already reached thousands of students.",
+    "imageUrl": "/album1.jpg",
+    "isApproved": true,
+    "createdAt": "2024-01-04T00:00:00Z",
+    "user": {
+      "_id": "65b8f000c9e8a1a2b3c4d000",
+      "firstName": "Suhail",
+      "lastName": "Al Zarooni",
+      "role": "super_admin"
+    }
+  },
+  {
+    "_id": "65b8f1a1c9e8a1a2b3c4d5e5",
+    "slug": "exclusive-collection-spotlight",
+    "title": "Exclusive Collection Spotlight",
+    "category": "collection",
+    "content": "Exploring the rare car collection of His Excellency, featuring world-renowned engineering marvels and classic automotive history. Each piece in the collection tells a unique story of innovation and design.",
+    "imageUrl": "/album2.jpg",
+    "isApproved": true,
+    "createdAt": "2024-01-05T00:00:00Z",
+    "user": {
+      "_id": "65b8f000c9e8a1a2b3c4d000",
+      "firstName": "Suhail",
+      "lastName": "Al Zarooni",
+      "role": "super_admin"
+    }
+  }
+]
